@@ -15,5 +15,6 @@ Please follow the following steps to make this repo easy to navigate for all con
 5. Commit your file with the command ```git commit -m "(your name)_recommendation"```.<br>
 6. Follow up with the command ```git push```to push your file to the repo.<br><br>
 
-Now, go ahead and refresh your github page on your browser. Your file should appear on the bottom of the list :)<br><br>
-<h2>:confetti_ball: :tada: :raised_hands: :clap: :thumbsup: :confetti_ball: :tada: Congratulations :confetti_ball: :tada: :raised_hands: :clap: :thumbsup: :confetti_ball: :tada:</h2>
+<h2>:confetti_ball: :tada: :raised_hands: :clap: :thumbsup: :confetti_ball: :tada: Congratulations :confetti_ball: :tada: :raised_hands: :clap: :thumbsup: :confetti_ball: :tada:</h2><br>
+
+Now, go ahead and refresh your github page on your browser. Your file should appear on the bottom of the list :)<br>
