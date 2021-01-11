@@ -12,7 +12,7 @@ Please follow the following steps to make this repo easy to navigate for all con
 2. Run the ```ls``` command to check the files on the repo and make sure to replace ```nbr``` in your file name with the right number following the list on the repo.<br>
 3. Add your file by using the command ```git add (file name)```.<br>
 4. Follow up with the command ```git status```. You should see your file appear, ready to be commited.
-5. Commit your file with the command ```git commit -m "(your name)_recommendation"```.<br>
+5. Commit your file with the command ```git commit -m "(your name)_commit"```.<br>
 6. Follow up with the command ```git push```to push your file to the repo.<br><br>
 
 <h2>:confetti_ball: :tada: :raised_hands: :clap: :thumbsup: :confetti_ball: :tada: Congratulations :confetti_ball: :tada: :raised_hands: :clap: :thumbsup: :confetti_ball: :tada:</h2><br>
